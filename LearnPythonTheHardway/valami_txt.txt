@@ -1,0 +1,1 @@
+ez egy külsõ txt, amit beolvasunk
